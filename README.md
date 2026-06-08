@@ -1,49 +1,49 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:2ecc71&height=200&section=header&text=¡Hola,%20soy%20Levis-Code!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Obsidian%20Plugin%20Developer&descAlignY=51&descAlign=50" alt="Levis-Code Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:2ecc71&height=200&section=header&text=Hi,%20I'm%20Levis-Code!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Obsidian%20Plugin%20Developer&descAlignY=51&descAlign=50" alt="Levis-Code Header" width="100%" />
 </div>
 
-<h3 align="center">Creando herramientas para expandir los límites de la gestión del conocimiento.</h3>
+<h3 align="center">Building tools to expand the limits of knowledge management.</h3>
 
 ---
 
-### 👨‍💻 Sobre Mí
+### 👨‍💻 About Me
 
-Soy un desarrollador de software apasionado por crear herramientas potentes, eficientes y verdaderamente portables. Mi enfoque actual está en expandir las capacidades de **[Obsidian](https://obsidian.md)** mediante plugins personalizados que se integran a la perfección con flujos de trabajo locales, inteligencia artificial y sistemas avanzados de gestión del conocimiento.
+I am a passionate software developer focused on creating powerful, portable, and efficient tools. My current focus lies in expanding the capabilities of **[Obsidian](https://obsidian.md)** through custom plugins that integrate seamlessly with local workflows, AI, and advanced knowledge management systems.
 
-- 🔭 Actualmente trabajando en **[MarkCalc](https://github.com/Levis-Code/markcalc)** — un motor nativo de fórmulas estilo hoja de cálculo para tablas Markdown.
-- 🧠 Profundamente interesado en **IA Local (QMD)**, **Bases de Datos Vectoriales** y **Grafos de Conocimiento**.
-- 🛠️ Construyendo herramientas sin fricción que respetan la portabilidad de los datos y el texto plano.
-- 🤝 Siempre abierto a colaborar en flujos de trabajo innovadores y productividad.
+- 🔭 I’m currently working on **[MarkCalc](https://github.com/Levis-Code/markcalc)** — a native spreadsheet-like formula engine for Markdown tables.
+- 🧠 Deeply interested in **Local AI (QMD)**, **Vector Databases**, and **Knowledge Graphs**.
+- 🛠️ Building frictionless tools that respect data portability and plain text.
+- 🤝 Always open to collaborating on innovative productivity workflows.
 
 ---
 
-### 🚀 Proyectos Destacados
+### 🚀 Featured Projects
 
 #### 📊 [MarkCalc](https://github.com/Levis-Code/markcalc)
-**Fórmulas estilo hoja de cálculo nativamente en tablas de Markdown.** 
-Calcula presupuestos, libros contables y tablas de datos directamente dentro de tu bóveda de Obsidian usando JavaScript puro y Markdown. Sin encierros (zero lock-in), versionable en git y altamente portable. Cuenta con autocompletado consciente del contexto, referencias cruzadas entre notas y computación en tiempo real.
+**Spreadsheet formulas natively in Markdown tables.** 
+Calculates budgets, ledgers, and data tables directly within your Obsidian vault using pure JavaScript and Markdown. Zero lock-in, versionable, and highly portable. Features contextual auto-complete, cross-note references, and real-time computation.
 
 #### 🌌 QMD Constellation & Gemini Chat
-Un motor automático de descubrimiento de conocimiento ("Brújula de Ideas") impulsado por un backend local QMD (Query Model Daemon) y la IA de Gemini. Escanea notas activas automáticamente y sugiere conexiones semánticas vía RAG (Retrieval-Augmented Generation) y búsqueda vectorial, aportando serendipia pura a los sistemas Zettelkasten.
+An automated knowledge discovery engine ("Brújula de Ideas") powered by a local QMD (Query Model Daemon) backend and Gemini AI. It automatically scans active notes and suggests semantic connections via RAG (Retrieval-Augmented Generation) and vector search, bringing serendipity to Zettelkasten systems.
 
 #### 🧭 Ultrawaypoint (Custom Fork)
-Una bifurcación altamente personalizada del plugin original Waypoint, actuando como un generador dinámico de índices condicionales. Resuelve índices en cualquier lugar, filtra por fecha de modificación/creación en disco y realiza búsquedas ultrarrápidas O(1) en RAM directamente desde la caché de metadatos de Obsidian.
+A highly customized fork of the original Waypoint plugin acting as a dynamic conditional index generator. Resolves indexes anywhere, filters by disk mdate/cdate, and performs ultra-fast O(1) RAM searches directly from Obsidian's metadata cache.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,nodejs,markdown,git,github,bash" alt="Mis Habilidades" />
+  <img src="https://skillicons.dev/icons?i=javascript,nodejs,markdown,git,github,bash" alt="My Skills" />
 </p>
 
 ---
 
-### 📈 Estadísticas de GitHub
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github.com/Levis-Code/markcalc" onerror="this.src='https://github-readme-stats.vercel.app/api?username=Levis-Code&show_icons=true&theme=radical&locale=es'" alt="Estadísticas de GitHub de Levis-Code" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Levis-Code&theme=radical&locale=es" alt="Racha de GitHub de Levis-Code" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Levis-Code&show_icons=true&theme=radical" alt="Levis-Code's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Levis-Code&theme=radical" alt="Levis-Code's GitHub Streak" />
 </p>
 
 ---
@@ -55,5 +55,5 @@ Una bifurcación altamente personalizada del plugin original Waypoint, actuando 
 </p>
 
 <div align="center">
-  <i>"Escribiendo herramientas que tratan tu conocimiento con el respeto que merece."</i>
+  <i>"Writing tools that treat your knowledge with the respect it deserves."</i>
 </div>
